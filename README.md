@@ -1,6 +1,6 @@
 # HydroPlantProject
 
-#Alarms
+# Alarms
 <img width="1016" height="809" alt="image" src="https://github.com/user-attachments/assets/92b7a090-2ce7-42c9-8428-fd0f4eb91d9b" />
 <img width="918" height="806" alt="image" src="https://github.com/user-attachments/assets/eb66bc42-8202-42eb-97c7-da9abc13e2ed" />
 <img width="969" height="779" alt="image" src="https://github.com/user-attachments/assets/9aff370a-fc65-467f-9b69-205022ee4881" />
