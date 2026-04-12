@@ -25,6 +25,14 @@
 <img width="886" height="815" alt="image" src="https://github.com/user-attachments/assets/35d1728f-ef28-4522-a608-5f3c386fe932" />
 <img width="911" height="825" alt="image" src="https://github.com/user-attachments/assets/6cab7a04-e60e-4277-845c-b691b4d4add1" />
 
+# Modes
+<img width="942" height="644" alt="image" src="https://github.com/user-attachments/assets/98e4f7e7-3bd4-4a57-9ce5-1937bc6812f2" />
+<img width="1012" height="828" alt="image" src="https://github.com/user-attachments/assets/40468980-5535-4e64-ac34-4dc4376e57c9" />
+<img width="918" height="108" alt="image" src="https://github.com/user-attachments/assets/dc666cf0-d50c-41f6-a7b1-3c64071507e3" />
+
+
+
+
 
 
 
