@@ -1,7 +1,7 @@
 # HydroPlantProject
 
 ## Introduction
-<img width="300" height="150" alt="image" src="https://github.com/user-attachments/assets/d0e676e4-458e-4ece-96cd-4e0886b60d62" />
+<img width="500" height="250" alt="image" src="https://github.com/user-attachments/assets/d0e676e4-458e-4ece-96cd-4e0886b60d62" />
 A PLC-based control system for a simulated hydroelectric power plant, featuring PID control of generator speed and temperature using a baffle servo and oil pump VFD. The project includes full process logic, safety interlocks, alarm handling, and an operator HMI for real-time monitoring and control.
 
 
