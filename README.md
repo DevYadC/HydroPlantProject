@@ -50,7 +50,7 @@ A PLC-based control system for a simulated hydroelectric power plant, featuring 
 
 ## HMI
 ### Overview Screen
-<img width="503" height="506" alt="image" src="https://github.com/user-attachments/assets/496cf3db-fbce-4eeb-95bc-ff119e8936f6" />
+<img width="502" height="501" alt="image" src="https://github.com/user-attachments/assets/d47d11ad-89cb-4a89-a7bb-692b30bfd4ed" />
 
 ### Status Screen
 <img width="501" height="503" alt="image" src="https://github.com/user-attachments/assets/8bc2b019-36c3-4725-a8a8-f326ba5918bd" />
