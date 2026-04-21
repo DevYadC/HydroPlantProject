@@ -35,6 +35,22 @@ A PLC-based control system for a simulated hydroelectric power plant, featuring 
 <img width="993" height="692" alt="image" src="https://github.com/user-attachments/assets/a2a30e27-f6e7-434f-a26c-0e554bef3697" />
 <img width="985" height="712" alt="image" src="https://github.com/user-attachments/assets/ab1ef568-42ae-4dee-b609-4787810fb6b6" />
 
+## PID
+<img width="849" height="392" alt="image" src="https://github.com/user-attachments/assets/c41c23c3-d1a1-41f1-ac8d-91abc943a6b5" />
+<img width="811" height="318" alt="image" src="https://github.com/user-attachments/assets/81d08d1e-f3c6-45c7-8a2a-7f006206c0e8" />
+<img width="928" height="706" alt="image" src="https://github.com/user-attachments/assets/6dd56d66-40c8-4acb-86a4-0361049d1940" />
+<img width="1065" height="629" alt="image" src="https://github.com/user-attachments/assets/33942b90-bcdd-458f-8db1-9400ae8b4d4d" />
+<img width="953" height="705" alt="image" src="https://github.com/user-attachments/assets/c9dae4ca-d7d5-48b9-bd2f-00ec889aba3f" />
+<img width="1009" height="632" alt="image" src="https://github.com/user-attachments/assets/031e7603-df10-48ae-be7b-4796219b00d6" />
+<img width="874" height="696" alt="image" src="https://github.com/user-attachments/assets/6fbeb112-ad2c-446b-ac07-f8f5e91bdb39" />
+<img width="855" height="322" alt="image" src="https://github.com/user-attachments/assets/4f02820a-ee16-4eb8-8c2b-af3a092d126d" />
+
+
+
+
+
+
+
 ### Alarms
 <img width="1016" height="809" alt="image" src="https://github.com/user-attachments/assets/92b7a090-2ce7-42c9-8428-fd0f4eb91d9b" />
 <img width="918" height="806" alt="image" src="https://github.com/user-attachments/assets/eb66bc42-8202-42eb-97c7-da9abc13e2ed" />
