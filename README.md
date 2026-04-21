@@ -7,6 +7,12 @@ A PLC-based control system for a simulated hydroelectric power plant, featuring 
 
 
 ## Ladder Logic
+
+### Main
+<img width="861" height="533" alt="image" src="https://github.com/user-attachments/assets/97498af4-5524-43cc-a8b5-d3f88df3295b" />
+<img width="706" height="535" alt="image" src="https://github.com/user-attachments/assets/01fd7565-87e5-43a9-8270-58f8067530b0" />
+
+
 ### IO
 <img width="824" height="585" alt="image" src="https://github.com/user-attachments/assets/8c901a79-d2e7-48e8-ae9a-02bbfd6fb897" />
 <img width="766" height="777" alt="image" src="https://github.com/user-attachments/assets/839013ea-0702-4277-9749-4ddb870dcbfd" />
