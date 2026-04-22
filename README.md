@@ -24,6 +24,8 @@ A PLC-based control system for a simulated hydroelectric power plant, featuring 
 <img width="942" height="644" alt="image" src="https://github.com/user-attachments/assets/98e4f7e7-3bd4-4a57-9ce5-1937bc6812f2" />
 <img width="1012" height="828" alt="image" src="https://github.com/user-attachments/assets/40468980-5535-4e64-ac34-4dc4376e57c9" />
 
+<img width="990" height="700" alt="image" src="https://github.com/user-attachments/assets/093a9d71-c9fe-409b-b9c7-2bc3e096b788" />
+<img width="921" height="688" alt="image" src="https://github.com/user-attachments/assets/10855f11-21fa-49fe-afac-979e3d0b416c" />
 
 
 
