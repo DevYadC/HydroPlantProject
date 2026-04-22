@@ -32,7 +32,9 @@ A PLC-based control system for a simulated hydroelectric power plant, featuring 
 <img width="883" height="607" alt="image" src="https://github.com/user-attachments/assets/240018d8-958f-45c6-a696-c4118ab04aca" />
 <img width="904" height="404" alt="image" src="https://github.com/user-attachments/assets/638b1434-267a-4f17-80ef-26065c4217b3" />
 <img width="868" height="410" alt="image" src="https://github.com/user-attachments/assets/8033a6df-485c-42f5-92ea-4156112e2118" />
-<img width="895" height="729" alt="image" src="https://github.com/user-attachments/assets/59eb15ab-e145-4b32-a0ef-ca6a078a10ee" />
+
+<img width="920" height="632" alt="image" src="https://github.com/user-attachments/assets/37d3fd20-5e9d-45d2-b34b-76eeb2173546" />
+
 
 ### HOA
 <img width="871" height="564" alt="image" src="https://github.com/user-attachments/assets/399521ca-42e8-4aea-88a4-5cecc8a4abf6" />
